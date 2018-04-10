@@ -16,3 +16,11 @@ Paste any of the questions here to your Slack chat channel or company newsletter
 
 * Who you like to have a one-on-one with in the team?
 * todo
+
+## Company Love
+* todo
+* todo
+
+## One-on-one Meeting
+* todo
+* todo
